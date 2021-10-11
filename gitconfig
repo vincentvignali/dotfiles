@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vincent.vignali@hotmail.fr
+	name = Vincent Vignali
